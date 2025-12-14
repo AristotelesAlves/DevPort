@@ -57,3 +57,8 @@ Fluxo:
 
 ```text
 Abrir porta → Testar no celular/tablet → ENTER → Porta fechada
+
+## 📜 Licença
+
+Este projeto está licenciado sob a **MIT License**.  
+Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
