@@ -57,6 +57,7 @@ Fluxo:
 
 ```text
 Abrir porta → Testar no celular/tablet → ENTER → Porta fechada
+```
 
 ## 📜 Licença
 
